@@ -1,0 +1,7 @@
+out/*.rds
+out/*.csv
+figs/*.pdf
+ms/figs/*.pdf
+ms/figs/*.png
+ms/tables/*.tex
+ms/tables/*.csv
