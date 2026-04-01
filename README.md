@@ -1,6 +1,6 @@
 # hosp-ww-covid-canada
 
-Code and data accompanying publication by Yusuf &amp; Champredon
+Code and data accompanying publication by Yusuf &amp; Champredon https://doi.org/10.1016/j.epidem.2026.100902.
 
 ## Data
 
