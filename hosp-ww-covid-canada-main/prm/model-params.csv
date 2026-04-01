@@ -1,9 +1,0 @@
-param, value, description
-norm.hosp, TRUE, logical flag to normalize hospital admissions data
-norm.ww, FALSE, logical flag to normalize wastewater concentration data
-var.window, 8, the minimum data window (in weeks) to examine variant dominance
-var.prop, 0.6, the proportion threshold to consider a variant dominant
-var.pctabove, 0.75, the minimum percentage of weeks within the window where a dominant variant is above threshold
-iter, 5e5, number of MCMC iterations
-burnin, 2.5e5, number of iterations to be burned in
-chains, 4, number of MCMC chains

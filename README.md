@@ -1,4 +1,4 @@
-# hosp-ww-covid-canada
+# COVID-19 hospital admissions and wastewater data in Canada: A statistical analysis
 
 Code and data accompanying publication by Yusuf &amp; Champredon https://doi.org/10.1016/j.epidem.2026.100902.
 
